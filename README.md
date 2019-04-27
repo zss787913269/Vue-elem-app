@@ -1,6 +1,4 @@
-# sell
 
-> sellApp
 
 ## Build Setup
 
