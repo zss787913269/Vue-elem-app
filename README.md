@@ -1,19 +1,13 @@
 
 
-## Build Setup
-
-``` bash
-# install dependencies
+安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+本地开发，开启服务器，浏览器访问http://localhost:8081
 npm run dev
 
-# build for production with minification
+构建生产
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+运行打包文件
+node prod.server.js
